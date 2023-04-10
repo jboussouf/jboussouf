@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jamal Boussouf</h1>
 <h3 align="center">Software Developer & Data Science student from morocco</h3>
 
-<p align="left"> <a href="https://twitter.com/jamalboussouf1" target="blank"><img src="https://img.shields.io/linkedin/follow/jamalboussouf1?logo=twitter&style=for-the-badge" alt="jamalboussouf1" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/jamal-boussouf-996a05205/" target="blank"><img src="https://github.com/jamal-boussouf/jamal-boussouf/blob/main/LI-Logo.png" alt="jamal boussouf" /></a> </p>
 
 - 🌱 I’m currently learning **cryptography, data sciece, ML**
 
