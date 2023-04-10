@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jamalboussouf1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamalboussouf1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jamal-boussouf-996a05205" target="blank"><img align="center" src=./LI-Logo.png" alt="jamal-boussouf-996a05205" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jamal-boussouf-996a05205" target="blank"><img align="center" src="./LI-Logo.png" alt="jamal-boussouf-996a05205" height="30" width="40" /></a>
 <a href="https://instagram.com/jamal.boussouf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jamal.boussouf" height="30" width="40" /></a>
 </p>
 
