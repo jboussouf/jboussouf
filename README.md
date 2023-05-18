@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer & Data Science student from morocco</h3>
 
 
-- :scroll: Any one can check my CV websiet on <a href="https://jamal-boussouf.github.io/">Jamal-Boussouf-CV</a>
+- :scroll: Any one can check my CV websiet on <a href="https://boussouf.github.io/">Jamal-Boussouf-CV</a>
 
 - 🌱 I’m currently learning **cryptography, data sciece, ML**
 
