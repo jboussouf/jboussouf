@@ -30,7 +30,7 @@
 
 - **Signing Algorithms Behind Blockchain Digital Transactions**  
   *Jamal Boussouf*  
-  **MASI Conference**, 2024  
+  **MASI Conference**, 2022  
   > Comparative evaluation of elliptic curve signature schemes (EdDSA, ECDSA) against RSA regarding efficiency, verification overhead, and security guarantees.
 
 
