@@ -4,7 +4,34 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
+- 🎓 **Ph.D. Candidate & Data Scientist** specializing in **AI Security** and **Federated Learning**.
+- 🔬 Research focus: **Adversarial Robustness, Latent-Space Backdoor Detection, Small Language Models (SLMs), and Decentralized Intelligence**.
+- 🌐 Personal Website: [jboussouf.com](https://jboussouf.com)
+
+
+## 🔬 Research & Publications
+
+<p align="left">
+  <a href="https://orcid.org/0009-0005-6360-9387" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0005--6360--9387-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://jboussouf.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-jboussouf.com-0284c7?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+</p>
+
+### 📄 Selected Publications
+
+- **AEGIS: Real-Time Latent-Space Backdoor Detection for Dependable and Secure Small Language Model Inference**  
+  *Jamal Boussouf, Ismail Lamaakal, Ibrahim Ouahbi, Khalid El Makkaoui, Mounia Zaydi, Belhassen Zouari*  
+  **MDPI Technologies**, 2026 · [![DOI](https://img.shields.io/badge/DOI-10.3390%2Ftechnologies14100636-blue?style=flat-square)](https://doi.org/10.3390/technologies14100636)  
+  > Proposes AEGIS (Activation Evaluation and Guardrail for Inference Security), a non-invasive runtime framework monitoring transformer representations to detect backdoor anomalies during SLM inference without retraining (AUROC 0.95–1.00).
+
+- **IOTA TANGLE 2.0: AN OVERVIEW**  
+  *Mohamed Fartitchou, Jamal Boussouf, Khalid El Makkaoui, Yassine Maleh, Zakaria El Allali*  
+  **EDPACS: The Journal of Information Security** (Taylor & Francis), 2023 · [![DOI](https://img.shields.io/badge/DOI-10.1080%2F07366981.2023.2293322-blue?style=flat-square)](https://doi.org/10.1080/07366981.2023.2293322)  
+  > Explores the cryptographic evolution and digital signature mechanisms enabling coordinator-free, smart contract–capable distributed ledger architectures.
+
+- **Signing Algorithms Behind Blockchain Digital Transactions**  
+  *Jamal Boussouf*  
+  **MASI Conference**, 2024  
+  > Comparative evaluation of elliptic curve signature schemes (EdDSA, ECDSA) against RSA regarding efficiency, verification overhead, and security guarantees.
 
 
 ## 📊 GitHub Stats & Trophies
@@ -48,7 +75,10 @@
 
 
 ## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center">
+  <a href="https://linkedin.com/in/jamal-boussouf" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/></a>
+  <a href="mailto:jamalbssouf@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=jboussouf&theme=github-dark&mode=dark&style=snake" />
