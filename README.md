@@ -20,7 +20,7 @@
 
 - **AEGIS: Real-Time Latent-Space Backdoor Detection for Dependable and Secure Small Language Model Inference**  
   *Jamal Boussouf, Ismail Lamaakal, Ibrahim Ouahbi, Khalid El Makkaoui, Mounia Zaydi, Belhassen Zouari*  
-  **MDPI Technologies**, 2026 · [![DOI](https://img.shields.io/badge/DOI-10.3390%2Ftechnologies14100636-blue?style=flat-square)](https://doi.org/10.3390/technologies14100636)  
+  **MDPI Technologies**, 2026 · [![DOI](https://img.shields.io/badge/DOI-10.3390%2Ftechnologies14100636-blue?style=flat-square)](https://doi.org/10.3390/technologies14100636) · [![Code](https://img.shields.io/badge/Code-jboussouf%2FAEGIS-181717?style=flat-square&logo=github)](https://github.com/jboussouf/AEGIS)  
   > Proposes AEGIS (Activation Evaluation and Guardrail for Inference Security), a non-invasive runtime framework monitoring transformer representations to detect backdoor anomalies during SLM inference without retraining (AUROC 0.95–1.00).
 
 - **IOTA TANGLE 2.0: AN OVERVIEW**  
